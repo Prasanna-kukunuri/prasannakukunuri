@@ -5,8 +5,8 @@ DevOps Operations Associate @ Amazon
 🚀 DevOps | Cloud Engineer | AWS & Azure | Kubernetes | Terraform | CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannakukunuri)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-Blogs-007ACC?style=flat&logo=hashnode&logoColor=white)](https://prasannakukunuri.hashnode.dev)  
-[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasannakukunuri35@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blogs-007ACC?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@kukunuriprasanna)  
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasannakukunuri53@gmail.com)
 
 ---
 🔹 About Me
