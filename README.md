@@ -6,7 +6,7 @@ DevOps Operations Associate @ Amazon
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannakukunuri)  
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blogs-007ACC?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@kukunuriprasanna)  
-[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasannakukunuri53@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasannakukunuri35@gmail.com)
 
 ---
 🔹 About Me
@@ -25,10 +25,10 @@ I’m a Devops Operations and Associate at Amazon & Wns With 2+ years of experie
 ---
 
 ## 🛠️ Tech Stack
-- **OS & Automation:** Linux, Shell, Bash basics  
+- **OS & Automation:** Linux, Shell, Bash  
 - **Version Control:** Git, GitHub  
-- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC basics)  
-- **CI/CD:** GitHub Actions, basics of Jenkins  
+- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC)  
+- **CI/CD:** GitHub Actions, Jenkins  
 - **Security & DevSecOps:** IAM fundamentals, workflow security practices  
 - **Process & Operations:** Fraud detection, investigation, compliance, reporting  
 
